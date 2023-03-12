@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		41C0021C29B8E9CF00BC1CFC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0021B29B8E9CF00BC1CFC /* main.cpp */; };
+		41C0023729BDD31400BC1CFC /* Prg8-2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023529BDD31400BC1CFC /* Prg8-2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		41C0021829B8E9CF00BC1CFC /* practice for cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "practice for cpp"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41C0021B29B8E9CF00BC1CFC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		41C0023529BDD31400BC1CFC /* Prg8-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-2.cpp"; sourceTree = "<group>"; };
+		41C0023629BDD31400BC1CFC /* Prg8-2.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "Prg8-2.hpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				41C0021B29B8E9CF00BC1CFC /* main.cpp */,
+				41C0023529BDD31400BC1CFC /* Prg8-2.cpp */,
+				41C0023629BDD31400BC1CFC /* Prg8-2.hpp */,
 			);
 			path = "practice for cpp";
 			sourceTree = "<group>";
@@ -120,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				41C0021C29B8E9CF00BC1CFC /* main.cpp in Sources */,
+				41C0023729BDD31400BC1CFC /* Prg8-2.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
