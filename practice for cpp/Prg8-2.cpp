@@ -29,7 +29,6 @@ int main(void)
     {
         size++;
     }
-    
     // 입력파일 닫기
     inputFile.close();
     
