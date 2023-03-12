@@ -12,6 +12,12 @@
 		41C0023929BDE06D00BC1CFC /* Prg8-3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023829BDE06D00BC1CFC /* Prg8-3.cpp */; };
 		41C0023B29BDE23B00BC1CFC /* Prg8-4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023A29BDE23B00BC1CFC /* Prg8-4.cpp */; };
 		41C0023E29BE1C5200BC1CFC /* Prg8-5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023C29BE1C5200BC1CFC /* Prg8-5.cpp */; };
+		41C0024129BE20B100BC1CFC /* Prg8-6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023F29BE20B100BC1CFC /* Prg8-6.cpp */; };
+		41C0024329BE21AF00BC1CFC /* Prg8-7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024229BE21AF00BC1CFC /* Prg8-7.cpp */; };
+		41C0024529BE234600BC1CFC /* Prg8-8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024429BE234600BC1CFC /* Prg8-8.cpp */; };
+		41C0024729BE256C00BC1CFC /* Prg8-9.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024629BE256C00BC1CFC /* Prg8-9.cpp */; };
+		41C0024A29BE3A1B00BC1CFC /* student.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024929BE3A1B00BC1CFC /* student.cpp */; };
+		41C0024C29BE3C0D00BC1CFC /* app.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024B29BE3C0D00BC1CFC /* app.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +39,13 @@
 		41C0023829BDE06D00BC1CFC /* Prg8-3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-3.cpp"; sourceTree = "<group>"; };
 		41C0023A29BDE23B00BC1CFC /* Prg8-4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-4.cpp"; sourceTree = "<group>"; };
 		41C0023C29BE1C5200BC1CFC /* Prg8-5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-5.cpp"; sourceTree = "<group>"; };
+		41C0023F29BE20B100BC1CFC /* Prg8-6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-6.cpp"; sourceTree = "<group>"; };
+		41C0024229BE21AF00BC1CFC /* Prg8-7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-7.cpp"; sourceTree = "<group>"; };
+		41C0024429BE234600BC1CFC /* Prg8-8.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-8.cpp"; sourceTree = "<group>"; };
+		41C0024629BE256C00BC1CFC /* Prg8-9.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-9.cpp"; sourceTree = "<group>"; };
+		41C0024829BE394000BC1CFC /* student.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = student.h; sourceTree = "<group>"; };
+		41C0024929BE3A1B00BC1CFC /* student.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = student.cpp; sourceTree = "<group>"; };
+		41C0024B29BE3C0D00BC1CFC /* app.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = app.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +83,13 @@
 				41C0023829BDE06D00BC1CFC /* Prg8-3.cpp */,
 				41C0023A29BDE23B00BC1CFC /* Prg8-4.cpp */,
 				41C0023C29BE1C5200BC1CFC /* Prg8-5.cpp */,
+				41C0023F29BE20B100BC1CFC /* Prg8-6.cpp */,
+				41C0024229BE21AF00BC1CFC /* Prg8-7.cpp */,
+				41C0024429BE234600BC1CFC /* Prg8-8.cpp */,
+				41C0024629BE256C00BC1CFC /* Prg8-9.cpp */,
+				41C0024829BE394000BC1CFC /* student.h */,
+				41C0024929BE3A1B00BC1CFC /* student.cpp */,
+				41C0024B29BE3C0D00BC1CFC /* app.cpp */,
 			);
 			path = CH08;
 			sourceTree = "<group>";
@@ -132,9 +152,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				41C0021C29B8E9CF00BC1CFC /* Prg8-1.cpp in Sources */,
+				41C0024529BE234600BC1CFC /* Prg8-8.cpp in Sources */,
+				41C0024A29BE3A1B00BC1CFC /* student.cpp in Sources */,
+				41C0024129BE20B100BC1CFC /* Prg8-6.cpp in Sources */,
+				41C0024329BE21AF00BC1CFC /* Prg8-7.cpp in Sources */,
 				41C0023E29BE1C5200BC1CFC /* Prg8-5.cpp in Sources */,
+				41C0024C29BE3C0D00BC1CFC /* app.cpp in Sources */,
 				41C0023B29BDE23B00BC1CFC /* Prg8-4.cpp in Sources */,
 				41C0023929BDE06D00BC1CFC /* Prg8-3.cpp in Sources */,
+				41C0024729BE256C00BC1CFC /* Prg8-9.cpp in Sources */,
 				41C0023729BDD31400BC1CFC /* Prg8-2.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
