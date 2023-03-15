@@ -18,6 +18,7 @@
 		41C0024729BE256C00BC1CFC /* Prg8-9.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024629BE256C00BC1CFC /* Prg8-9.cpp */; };
 		41C0024A29BE3A1B00BC1CFC /* student.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024929BE3A1B00BC1CFC /* student.cpp */; };
 		41C0024C29BE3C0D00BC1CFC /* app.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024B29BE3C0D00BC1CFC /* app.cpp */; };
+		41C0024E29BE408800BC1CFC /* Prg8-13.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024D29BE408800BC1CFC /* Prg8-13.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,6 +47,7 @@
 		41C0024829BE394000BC1CFC /* student.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = student.h; sourceTree = "<group>"; };
 		41C0024929BE3A1B00BC1CFC /* student.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = student.cpp; sourceTree = "<group>"; };
 		41C0024B29BE3C0D00BC1CFC /* app.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = app.cpp; sourceTree = "<group>"; };
+		41C0024D29BE408800BC1CFC /* Prg8-13.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-13.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				41C0024829BE394000BC1CFC /* student.h */,
 				41C0024929BE3A1B00BC1CFC /* student.cpp */,
 				41C0024B29BE3C0D00BC1CFC /* app.cpp */,
+				41C0024D29BE408800BC1CFC /* Prg8-13.cpp */,
 			);
 			path = CH08;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				41C0024129BE20B100BC1CFC /* Prg8-6.cpp in Sources */,
 				41C0024329BE21AF00BC1CFC /* Prg8-7.cpp in Sources */,
 				41C0023E29BE1C5200BC1CFC /* Prg8-5.cpp in Sources */,
+				41C0024E29BE408800BC1CFC /* Prg8-13.cpp in Sources */,
 				41C0024C29BE3C0D00BC1CFC /* app.cpp in Sources */,
 				41C0023B29BDE23B00BC1CFC /* Prg8-4.cpp in Sources */,
 				41C0023929BDE06D00BC1CFC /* Prg8-3.cpp in Sources */,
