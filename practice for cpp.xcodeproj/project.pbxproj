@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		41575B4929C6AB7E00443DB1 /* Prg6-1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41575B4829C6AB7E00443DB1 /* Prg6-1.cpp */; };
+		41575B4E29C6BADE00443DB1 /* Prg6-2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41575B4D29C6BADE00443DB1 /* Prg6-2.cpp */; };
 		41C0021C29B8E9CF00BC1CFC /* Prg8-1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0021B29B8E9CF00BC1CFC /* Prg8-1.cpp */; };
 		41C0023729BDD31400BC1CFC /* Prg8-2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023529BDD31400BC1CFC /* Prg8-2.cpp */; };
 		41C0023929BDE06D00BC1CFC /* Prg8-3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023829BDE06D00BC1CFC /* Prg8-3.cpp */; };
@@ -46,6 +47,7 @@
 /* Begin PBXFileReference section */
 		41575B4629C6AB7E00443DB1 /* CH06 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CH06; sourceTree = BUILT_PRODUCTS_DIR; };
 		41575B4829C6AB7E00443DB1 /* Prg6-1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-1.cpp"; sourceTree = "<group>"; };
+		41575B4D29C6BADE00443DB1 /* Prg6-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-2.cpp"; sourceTree = "<group>"; };
 		41C0021829B8E9CF00BC1CFC /* practice for cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "practice for cpp"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41C0021B29B8E9CF00BC1CFC /* Prg8-1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-1.cpp"; sourceTree = "<group>"; };
 		41C0023529BDD31400BC1CFC /* Prg8-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-2.cpp"; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				41575B4829C6AB7E00443DB1 /* Prg6-1.cpp */,
+				41575B4D29C6BADE00443DB1 /* Prg6-2.cpp */,
 			);
 			path = CH06;
 			sourceTree = "<group>";
@@ -205,6 +208,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				41575B4929C6AB7E00443DB1 /* Prg6-1.cpp in Sources */,
+				41575B4E29C6BADE00443DB1 /* Prg6-2.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
