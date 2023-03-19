@@ -31,6 +31,8 @@
 		41FD886F29C709F800AAB4E5 /* Prg6-15.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41FD886E29C709F800AAB4E5 /* Prg6-15.cpp */; };
 		41FD887129C70B1A00AAB4E5 /* Prg6-16.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41FD887029C70B1A00AAB4E5 /* Prg6-16.cpp */; };
 		41FD887329C70BA900AAB4E5 /* Prg6-17.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41FD887229C70BA900AAB4E5 /* Prg6-17.cpp */; };
+		41FD887529C712F400AAB4E5 /* Prg6-18.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41FD887429C712F400AAB4E5 /* Prg6-18.cpp */; };
+		41FD887729C713B100AAB4E5 /* Prg6-19.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41FD887629C713B100AAB4E5 /* Prg6-19.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -82,6 +84,8 @@
 		41FD886E29C709F800AAB4E5 /* Prg6-15.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-15.cpp"; sourceTree = "<group>"; };
 		41FD887029C70B1A00AAB4E5 /* Prg6-16.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-16.cpp"; sourceTree = "<group>"; };
 		41FD887229C70BA900AAB4E5 /* Prg6-17.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-17.cpp"; sourceTree = "<group>"; };
+		41FD887429C712F400AAB4E5 /* Prg6-18.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-18.cpp"; sourceTree = "<group>"; };
+		41FD887629C713B100AAB4E5 /* Prg6-19.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-19.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +121,8 @@
 				41FD886E29C709F800AAB4E5 /* Prg6-15.cpp */,
 				41FD887029C70B1A00AAB4E5 /* Prg6-16.cpp */,
 				41FD887229C70BA900AAB4E5 /* Prg6-17.cpp */,
+				41FD887429C712F400AAB4E5 /* Prg6-18.cpp */,
+				41FD887629C713B100AAB4E5 /* Prg6-19.cpp */,
 			);
 			path = CH06;
 			sourceTree = "<group>";
@@ -243,11 +249,13 @@
 				41FD886729C6C40000AAB4E5 /* Prg6-6.cpp in Sources */,
 				41FD887129C70B1A00AAB4E5 /* Prg6-16.cpp in Sources */,
 				41FD886B29C6E8FB00AAB4E5 /* Prg6-12.cpp in Sources */,
+				41FD887729C713B100AAB4E5 /* Prg6-19.cpp in Sources */,
 				41575B5429C6BF3B00443DB1 /* Prg6-5.cpp in Sources */,
 				41575B5029C6BC9800443DB1 /* Prg6-3.cpp in Sources */,
 				41FD886D29C6EB7800AAB4E5 /* Prg6-13.cpp in Sources */,
 				41575B4E29C6BADE00443DB1 /* Prg6-2.cpp in Sources */,
 				41FD886F29C709F800AAB4E5 /* Prg6-15.cpp in Sources */,
+				41FD887529C712F400AAB4E5 /* Prg6-18.cpp in Sources */,
 				41575B5229C6BD7300443DB1 /* Prg6-4.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
