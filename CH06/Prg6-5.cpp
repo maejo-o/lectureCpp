@@ -1,4 +1,4 @@
-
+/*
 #include <iostream>
 #include <cctype>
 using namespace std;
@@ -20,3 +20,4 @@ int main(void)
     cout << "The number of Alphabet character : " << count << endl;
     return 0;
 }
+*/

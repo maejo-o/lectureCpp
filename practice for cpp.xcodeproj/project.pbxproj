@@ -24,6 +24,8 @@
 		41C0024A29BE3A1B00BC1CFC /* student.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024929BE3A1B00BC1CFC /* student.cpp */; };
 		41C0024C29BE3C0D00BC1CFC /* app.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024B29BE3C0D00BC1CFC /* app.cpp */; };
 		41C0024E29BE408800BC1CFC /* Prg8-13.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024D29BE408800BC1CFC /* Prg8-13.cpp */; };
+		41FD886729C6C40000AAB4E5 /* Prg6-6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41FD886629C6C40000AAB4E5 /* Prg6-6.cpp */; };
+		41FD886929C6C53900AAB4E5 /* Prg6-7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41FD886829C6C53900AAB4E5 /* Prg6-7.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -68,6 +70,8 @@
 		41C0024929BE3A1B00BC1CFC /* student.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = student.cpp; sourceTree = "<group>"; };
 		41C0024B29BE3C0D00BC1CFC /* app.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = app.cpp; sourceTree = "<group>"; };
 		41C0024D29BE408800BC1CFC /* Prg8-13.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-13.cpp"; sourceTree = "<group>"; };
+		41FD886629C6C40000AAB4E5 /* Prg6-6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-6.cpp"; sourceTree = "<group>"; };
+		41FD886829C6C53900AAB4E5 /* Prg6-7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-7.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 				41575B4F29C6BC9800443DB1 /* Prg6-3.cpp */,
 				41575B5129C6BD7300443DB1 /* Prg6-4.cpp */,
 				41575B5329C6BF3B00443DB1 /* Prg6-5.cpp */,
+				41FD886629C6C40000AAB4E5 /* Prg6-6.cpp */,
+				41FD886829C6C53900AAB4E5 /* Prg6-7.cpp */,
 			);
 			path = CH06;
 			sourceTree = "<group>";
@@ -217,6 +223,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				41575B4929C6AB7E00443DB1 /* Prg6-1.cpp in Sources */,
+				41FD886929C6C53900AAB4E5 /* Prg6-7.cpp in Sources */,
+				41FD886729C6C40000AAB4E5 /* Prg6-6.cpp in Sources */,
 				41575B5429C6BF3B00443DB1 /* Prg6-5.cpp in Sources */,
 				41575B5029C6BC9800443DB1 /* Prg6-3.cpp in Sources */,
 				41575B4E29C6BADE00443DB1 /* Prg6-2.cpp in Sources */,
