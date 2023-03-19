@@ -1,4 +1,4 @@
-
+/*
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -13,3 +13,4 @@ int main(void)
     cout << "tan(45)= " << tan(degree) << endl;
     return 0;
 }
+*/
