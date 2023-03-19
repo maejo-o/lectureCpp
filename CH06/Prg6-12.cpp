@@ -1,4 +1,4 @@
-
+/*
 #include <iostream>
 using namespace std;
 
@@ -42,3 +42,4 @@ void output(int year, bool result)
     }
     return;
 }
+*/
