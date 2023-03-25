@@ -24,6 +24,8 @@
 		41C0024A29BE3A1B00BC1CFC /* student.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024929BE3A1B00BC1CFC /* student.cpp */; };
 		41C0024C29BE3C0D00BC1CFC /* app.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024B29BE3C0D00BC1CFC /* app.cpp */; };
 		41C0024E29BE408800BC1CFC /* Prg8-13.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0024D29BE408800BC1CFC /* Prg8-13.cpp */; };
+		41E02C0E29CF4006007B4AB7 /* Prg9-8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41E02C0D29CF4006007B4AB7 /* Prg9-8.cpp */; };
+		41E02C1029CF41F8007B4AB7 /* Prg9-9.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41E02C0F29CF41F8007B4AB7 /* Prg9-9.cpp */; };
 		41FD886729C6C40000AAB4E5 /* Prg6-6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41FD886629C6C40000AAB4E5 /* Prg6-6.cpp */; };
 		41FD886929C6C53900AAB4E5 /* Prg6-7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41FD886829C6C53900AAB4E5 /* Prg6-7.cpp */; };
 		41FD886B29C6E8FB00AAB4E5 /* Prg6-12.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41FD886A29C6E8FA00AAB4E5 /* Prg6-12.cpp */; };
@@ -89,6 +91,8 @@
 		41C0024929BE3A1B00BC1CFC /* student.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = student.cpp; sourceTree = "<group>"; };
 		41C0024B29BE3C0D00BC1CFC /* app.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = app.cpp; sourceTree = "<group>"; };
 		41C0024D29BE408800BC1CFC /* Prg8-13.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-13.cpp"; sourceTree = "<group>"; };
+		41E02C0D29CF4006007B4AB7 /* Prg9-8.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg9-8.cpp"; sourceTree = "<group>"; };
+		41E02C0F29CF41F8007B4AB7 /* Prg9-9.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg9-9.cpp"; sourceTree = "<group>"; };
 		41FD886629C6C40000AAB4E5 /* Prg6-6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-6.cpp"; sourceTree = "<group>"; };
 		41FD886829C6C53900AAB4E5 /* Prg6-7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-7.cpp"; sourceTree = "<group>"; };
 		41FD886A29C6E8FA00AAB4E5 /* Prg6-12.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-12.cpp"; sourceTree = "<group>"; };
@@ -196,6 +200,8 @@
 				41FD887E29C759B700AAB4E5 /* Prg9-1.cpp */,
 				41FD888329C75B8700AAB4E5 /* Prg9-4.cpp */,
 				41FD888529C7731200AAB4E5 /* Prg9-5.cpp */,
+				41E02C0D29CF4006007B4AB7 /* Prg9-8.cpp */,
+				41E02C0F29CF41F8007B4AB7 /* Prg9-9.cpp */,
 			);
 			path = CH09;
 			sourceTree = "<group>";
@@ -339,7 +345,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41E02C0E29CF4006007B4AB7 /* Prg9-8.cpp in Sources */,
 				41FD888429C75B8700AAB4E5 /* Prg9-4.cpp in Sources */,
+				41E02C1029CF41F8007B4AB7 /* Prg9-9.cpp in Sources */,
 				41FD887F29C759B700AAB4E5 /* Prg9-1.cpp in Sources */,
 				41FD888629C7731200AAB4E5 /* Prg9-5.cpp in Sources */,
 			);
