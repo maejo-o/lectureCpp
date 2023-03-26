@@ -20,4 +20,4 @@ void print(int(*m)[4], int rows)
         cout << endl;
     }
 }
-/*
+*/
