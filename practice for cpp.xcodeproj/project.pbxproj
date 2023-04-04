@@ -13,6 +13,7 @@
 		41575B5229C6BD7300443DB1 /* Prg6-4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41575B5129C6BD7300443DB1 /* Prg6-4.cpp */; };
 		41575B5429C6BF3B00443DB1 /* Prg6-5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41575B5329C6BF3B00443DB1 /* Prg6-5.cpp */; };
 		41578FA429DA5CD200CBC689 /* Prg10-12.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41578FA329DA5CD200CBC689 /* Prg10-12.cpp */; };
+		41578FBF29DC5BDB00CBC689 /* Prg10-13.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41578FBE29DC5BDB00CBC689 /* Prg10-13.cpp */; };
 		41C0021C29B8E9CF00BC1CFC /* Prg8-1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0021B29B8E9CF00BC1CFC /* Prg8-1.cpp */; };
 		41C0023729BDD31400BC1CFC /* Prg8-2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023529BDD31400BC1CFC /* Prg8-2.cpp */; };
 		41C0023929BDE06D00BC1CFC /* Prg8-3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023829BDE06D00BC1CFC /* Prg8-3.cpp */; };
@@ -95,6 +96,7 @@
 		41575B5329C6BF3B00443DB1 /* Prg6-5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg6-5.cpp"; sourceTree = "<group>"; };
 		41578FA129DA5CD200CBC689 /* CH10 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CH10; sourceTree = BUILT_PRODUCTS_DIR; };
 		41578FA329DA5CD200CBC689 /* Prg10-12.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg10-12.cpp"; sourceTree = "<group>"; };
+		41578FBE29DC5BDB00CBC689 /* Prg10-13.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg10-13.cpp"; sourceTree = "<group>"; };
 		41C0021829B8E9CF00BC1CFC /* practice for cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "practice for cpp"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41C0021B29B8E9CF00BC1CFC /* Prg8-1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-1.cpp"; sourceTree = "<group>"; };
 		41C0023529BDD31400BC1CFC /* Prg8-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-2.cpp"; sourceTree = "<group>"; };
@@ -189,6 +191,7 @@
 			isa = PBXGroup;
 			children = (
 				41578FA329DA5CD200CBC689 /* Prg10-12.cpp */,
+				41578FBE29DC5BDB00CBC689 /* Prg10-13.cpp */,
 			);
 			path = CH10;
 			sourceTree = "<group>";
@@ -394,6 +397,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41578FBF29DC5BDB00CBC689 /* Prg10-13.cpp in Sources */,
 				41578FA429DA5CD200CBC689 /* Prg10-12.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
