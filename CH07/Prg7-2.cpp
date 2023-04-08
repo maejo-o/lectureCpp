@@ -1,4 +1,4 @@
-
+/*
 #include <iostream>
 using namespace std;
 
@@ -11,7 +11,7 @@ public:
     Circle();
     ~Circle();
     Circle(const Circle& circle);
-    void setRadius(double value);
+    // void setRadius(double value);
     double getRadius() const;
     double getArea() const;
     double getPerimeter() const;
@@ -37,10 +37,10 @@ Circle::~Circle()
 {
     cout << "소멸자가 호출 되었습니다. " << radius << endl;
 }
-void Circle::setRadius(double value)
-{
-    value = radius;
-}
+// void Circle::setRadius(double value)
+// {
+//    value = radius;
+// }
 double Circle::getRadius() const
 {
     return radius;
@@ -74,3 +74,4 @@ int main(void)
     cout << "perimter: " << circle3.getPerimeter() << endl << endl;
     return 0;
 }
+*/
