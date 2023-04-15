@@ -1,4 +1,4 @@
-
+/*
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -47,5 +47,4 @@ int main(void)
     return 0;
 
 }
-
-
+*/
