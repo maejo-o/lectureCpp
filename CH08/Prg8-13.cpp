@@ -1,4 +1,4 @@
-
+/*
 // 학생의 시험 성적들과 그 평균을 2차원 배열로 만들어서 활용하는 프로그램
 
 # include <iostream>
@@ -73,3 +73,4 @@ int main(void)
     cout<< endl;
     return 0;
 }
+*/
