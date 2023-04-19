@@ -1,4 +1,4 @@
-
+/*
 #include <iostream>
 #include <cassert>
 using namespace std;
@@ -70,3 +70,4 @@ int main()
     cout << "area: " << rect3.getArea() << endl;
     cout << "perimeter: " << rect3.getPerimeter() << endl << endl;
 }
+*/
