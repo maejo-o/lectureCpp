@@ -47,5 +47,4 @@ void swapByReference(int& ri, int& rj)
     rj = ri;
     ri = tmp;
     cout << "in swapByReference" << endl;
-    cout << "ri : " << ri << " " << "rj : " << rj << endl;
-}
+    cout << "ri : " << ri << " " << "rj : " << rj << endl;}
