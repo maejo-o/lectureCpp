@@ -1,3 +1,4 @@
+/*
 // Cstyle String -> C++style string object
 // vice versa
 
@@ -21,7 +22,7 @@ int main()
     
     int len = cpps2.size(); // 10
     char* cs3 = new char[len+1]; // 복사를 할 char 배열 준비
-    strncpy(cs3, cpps2.c_str(), sizeof(cs3)); // 복사, cs3는 독립적인 c style 의 문자열이 된다
+    strncpy(cs3, cpps2.c_str(), cpps2.size()); // 복사, cs3는 독립적인 c style 의 문자열이 된다
     cout << cs3 << endl;
     cs3[0] = 'Z'; // modification is possible
     cout << cs3 << endl;
@@ -30,3 +31,4 @@ int main()
     return 0;
 }
 
+*/
