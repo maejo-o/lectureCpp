@@ -1,4 +1,4 @@
-
+/*
 #include <string>
 #include <iostream>
 using namespace std;
@@ -21,3 +21,4 @@ int main()
     cout << first + " " + init + ". " + last << endl << endl;
     return 0;
 }
+*/
