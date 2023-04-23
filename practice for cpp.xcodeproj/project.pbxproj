@@ -23,6 +23,8 @@
 		41A23A1129F03E9500BE9C93 /* test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41A23A1029F03E9500BE9C93 /* test.cpp */; };
 		41A23A1329F3A0E000BE9C93 /* lecture.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41A23A1229F3A0E000BE9C93 /* lecture.cpp */; };
 		41A23A2B29F4F6EE00BE9C93 /* arrayNpointer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41A23A2A29F4F6EE00BE9C93 /* arrayNpointer.cpp */; };
+		41A23A2D29F5584C00BE9C93 /* compareString.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41A23A2C29F5584C00BE9C93 /* compareString.cpp */; };
+		41A23A2F29F55D0900BE9C93 /* printingPerson.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41A23A2E29F55D0900BE9C93 /* printingPerson.cpp */; };
 		41C0021C29B8E9CF00BC1CFC /* Prg8-1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0021B29B8E9CF00BC1CFC /* Prg8-1.cpp */; };
 		41C0023729BDD31400BC1CFC /* Prg8-2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023529BDD31400BC1CFC /* Prg8-2.cpp */; };
 		41C0023929BDE06D00BC1CFC /* Prg8-3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023829BDE06D00BC1CFC /* Prg8-3.cpp */; };
@@ -135,6 +137,8 @@
 		41A23A1029F03E9500BE9C93 /* test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test.cpp; sourceTree = "<group>"; };
 		41A23A1229F3A0E000BE9C93 /* lecture.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lecture.cpp; sourceTree = "<group>"; };
 		41A23A2A29F4F6EE00BE9C93 /* arrayNpointer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = arrayNpointer.cpp; sourceTree = "<group>"; };
+		41A23A2C29F5584C00BE9C93 /* compareString.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = compareString.cpp; sourceTree = "<group>"; };
+		41A23A2E29F55D0900BE9C93 /* printingPerson.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = printingPerson.cpp; sourceTree = "<group>"; };
 		41C0021829B8E9CF00BC1CFC /* practice for cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "practice for cpp"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41C0021B29B8E9CF00BC1CFC /* Prg8-1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-1.cpp"; sourceTree = "<group>"; };
 		41C0023529BDD31400BC1CFC /* Prg8-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-2.cpp"; sourceTree = "<group>"; };
@@ -245,6 +249,8 @@
 			children = (
 				41578FA329DA5CD200CBC689 /* Prg10-12.cpp */,
 				41578FBE29DC5BDB00CBC689 /* Prg10-13.cpp */,
+				41A23A2C29F5584C00BE9C93 /* compareString.cpp */,
+				41A23A2E29F55D0900BE9C93 /* printingPerson.cpp */,
 			);
 			path = CH10;
 			sourceTree = "<group>";
@@ -520,7 +526,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				41578FBF29DC5BDB00CBC689 /* Prg10-13.cpp in Sources */,
+				41A23A2F29F55D0900BE9C93 /* printingPerson.cpp in Sources */,
 				41578FA429DA5CD200CBC689 /* Prg10-12.cpp in Sources */,
+				41A23A2D29F5584C00BE9C93 /* compareString.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

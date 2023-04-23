@@ -1,4 +1,4 @@
-
+/*
 #include <string>
 #include <iostream>
 using namespace std;
@@ -11,3 +11,4 @@ int main()
     cout << strg << endl;
     return 0;
 }
+*/
