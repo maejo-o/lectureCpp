@@ -22,6 +22,7 @@
 		41A23A0C29F02E1100BE9C93 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41A23A0B29F02E1100BE9C93 /* main.cpp */; };
 		41A23A1129F03E9500BE9C93 /* test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41A23A1029F03E9500BE9C93 /* test.cpp */; };
 		41A23A1329F3A0E000BE9C93 /* lecture.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41A23A1229F3A0E000BE9C93 /* lecture.cpp */; };
+		41A23A2B29F4F6EE00BE9C93 /* arrayNpointer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41A23A2A29F4F6EE00BE9C93 /* arrayNpointer.cpp */; };
 		41C0021C29B8E9CF00BC1CFC /* Prg8-1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0021B29B8E9CF00BC1CFC /* Prg8-1.cpp */; };
 		41C0023729BDD31400BC1CFC /* Prg8-2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023529BDD31400BC1CFC /* Prg8-2.cpp */; };
 		41C0023929BDE06D00BC1CFC /* Prg8-3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 41C0023829BDE06D00BC1CFC /* Prg8-3.cpp */; };
@@ -133,6 +134,7 @@
 		41A23A0B29F02E1100BE9C93 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		41A23A1029F03E9500BE9C93 /* test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test.cpp; sourceTree = "<group>"; };
 		41A23A1229F3A0E000BE9C93 /* lecture.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lecture.cpp; sourceTree = "<group>"; };
+		41A23A2A29F4F6EE00BE9C93 /* arrayNpointer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = arrayNpointer.cpp; sourceTree = "<group>"; };
 		41C0021829B8E9CF00BC1CFC /* practice for cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "practice for cpp"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41C0021B29B8E9CF00BC1CFC /* Prg8-1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-1.cpp"; sourceTree = "<group>"; };
 		41C0023529BDD31400BC1CFC /* Prg8-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Prg8-2.cpp"; sourceTree = "<group>"; };
@@ -328,6 +330,7 @@
 				41E02C1729CFDDD9007B4AB7 /* Prg9-13.cpp */,
 				41E02C1929CFDEB0007B4AB7 /* Prg9-14.cpp */,
 				41E02C1B29CFE075007B4AB7 /* Prg9-15.cpp */,
+				41A23A2A29F4F6EE00BE9C93 /* arrayNpointer.cpp */,
 			);
 			path = CH09;
 			sourceTree = "<group>";
@@ -565,6 +568,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41A23A2B29F4F6EE00BE9C93 /* arrayNpointer.cpp in Sources */,
 				41E02C1229CF42D7007B4AB7 /* Prg9-10.cpp in Sources */,
 				41E02C1C29CFE075007B4AB7 /* Prg9-15.cpp in Sources */,
 				41E02C0E29CF4006007B4AB7 /* Prg9-8.cpp in Sources */,
