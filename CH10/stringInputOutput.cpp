@@ -20,7 +20,7 @@ int main()
     {
         cout << "Input the string as a line: ";
         getline(cin, strg2);
-        if(strg2.empty() == true) // strg2 에 아무것도 입력 되지 않았을시
+        if(strg2.empty() == true) //strg2 에 아무것도 입력 되지 않았을시
         {
             cout << "break" << endl;
             break;
