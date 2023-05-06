@@ -1,3 +1,4 @@
+/*
 // 객체 지향 프로그램에서 클래스를 사용하는 예
 #include <iostream>
 using namespace std;
@@ -76,3 +77,4 @@ int main()
     
     return 0;
 }
+*/
