@@ -16,7 +16,6 @@ public:
     double getArea() const;
     double getPerimeter() const;
 };
-
 Rectangle::Rectangle(double len, double hgt)
 :length(len), height(hgt)
 {
